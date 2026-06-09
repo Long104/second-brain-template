@@ -15,7 +15,7 @@ This file is the single source of truth for how the Jarvis AI assistant operates
 ## 1. Vault Overview
 
 ```
-note-3/
+second-brain-template/
 ├── AGENTS.md          ← assistant rules (never modify unless asked)
 ├── README.md          ← vault overview
 ├── index.md           ← vault map (update when structure changes)

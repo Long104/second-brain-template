@@ -23,7 +23,7 @@ A **minimal, tool-agnostic** personal knowledge management vault based on the [P
 ## Git (Optional)
 
 ```bash
-cd note-3
+cd second-brain-template
 git init
 git add -A
 git commit -m "init: note-3 skeleton"

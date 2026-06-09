@@ -115,14 +115,16 @@ second-brain-template/
 
 ## 4. Template Map
 
-| Template     | Destination                    | type              | Extra    |
-| ------------ | ------------------------------ | ----------------- | -------- |
-| `daily.md`   | `dailyNote/YYYY-MM-DD.md`      | `"daily"`         | —        |
-| `note.md`    | Anywhere                       | `"literature-note"` | —      |
-| `project.md` | `wiki/1.project/*.md`          | `"project-note"`  | —        |
-| `area.md`    | `wiki/2.area/*.md`             | `"area"`          | —        |
-| `resource.md`| `wiki/3.resource/*.md`         | `"resource"`      | `source` |
-| `archive.md` | `wiki/4.archive/*.md`          | `"archive"`       | —        |
+| Template           | Destination                    | type                | Extra    |
+| ------------------ | ------------------------------ | ------------------- | -------- |
+| `daily.md`         | `dailyNote/YYYY-MM-DD.md`      | `"daily"`           | —        |
+| `note.md`          | Anywhere                       | `"literature-note"` | —      |
+| `project.md`       | `wiki/1.project/*.md`          | `"project-note"`    | —        |
+| `area.md`          | `wiki/2.area/*.md`             | `"area"`            | —        |
+| `resource.md`      | `wiki/3.resource/*.md`         | `"resource"`        | `source` |
+| `archive.md`       | `wiki/4.archive/*.md`          | `"archive"`         | —        |
+| `profile.md`      | `wiki/2.area/me.md`            | `"area"`            | —        |
+| `daily-schedule.md`| `wiki/2.area/daily-schedule.md` | `"area"`            | —        |
 
 When a new note type appears, create the template first, then add a row here.
 
